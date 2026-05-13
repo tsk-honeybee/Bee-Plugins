@@ -1,7 +1,7 @@
 {
   "metadata_version": 1,
   "product": "Bee Talker",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "download_url": "https://github.com/tsk-honeybee/Bee-Plugins/releases/latest",
-  "patch_notes": "v1.0.0\n- Initial Bee Talker release metadata.\n- Raise latest_version above the installed plug-in version to trigger the in-plug-in update notice."
+  "patch_notes": "v1.0.1\n- test \n- Raise latest_version above the installed plug-in version to trigger the in-plug-in update notice."
 }
